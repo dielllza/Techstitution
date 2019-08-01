@@ -1,0 +1,59 @@
+/*p{
+	color : blue;
+	font-size: 20px;
+	font-family: Arial;
+}
+img{
+	border: solid 5px blue;
+}
+header{
+	width: 100%;
+	height: 800;
+	background-color: blue;
+
+}
+content{
+	width:100%;
+	height: 400;
+	background-color: purple;
+}
+footer{
+	width: 100%;
+	footer:100;
+	background-color: yellow;
+}
+div{
+	background-color: purple;
+}
+p{
+	color:yellow;
+}*/
+body{
+	background-color: #DCDCDC;
+}
+div{
+	/*text-align: center;*/
+	font: Arial;
+	/*text-orientation: center;*/
+	background-color: #DCDCDC;
+}
+.titulli{
+	text-align: center;
+}
+.image{
+	padding-top: 13px;
+  	padding-bottom: 13px;
+	text-align: center;
+	background-color: white;
+	position: center;
+	border: 10px;
+}
+.lista{
+	margin-top: 10px;
+  	margin-bottom: 10px;
+  	margin-right: 30%;
+  	margin-left: 30%;
+}
+.footertxt{
+	text-align: center;
+}
